@@ -115,19 +115,21 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:002882_0000_0FE64624999CC340"/>
-            <pb facs="tcp:002882_0001_0FE68722987AF7C0" rendition="simple:additions"/>
+            <pb facs="unknown:002882_0000_0FE64624999CC340"/>
+            <pb facs="unknown:002882_0001_0FE68722987AF7C0"
+                rendition="simple:additions"/>
             <p>Monumental GRATITUDE</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:002882_0002_0FE68723B9A15B60" rendition="simple:additions"/>
+            <pb facs="unknown:002882_0002_0FE68723B9A15B60"
+                rendition="simple:additions"/>
             <p>A Monumental Gratitude ATTEMPTED, In a <hi>POETICAL</hi> RELATION OF THE Danger and Deliverance OF Several of the MEMBERS OF Yale-College, IN Passing the SOUND, FROM <hi>South-hold</hi> to <hi>New-Haven, Aug.</hi> 20<hi>th.</hi> 1726.</p>
             <p>NEW-LONDON: Printed &amp; sold by <hi>T. Green.</hi> 1727.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb n="1" facs="tcp:002882_0003_0FE68723E3163550"/>
+            <pb n="1" facs="unknown:002882_0003_0FE68723E3163550"/>
             <head>A Monumental Gratitude Attempted, <hi>&amp;c.</hi>
             </head>
             <lg>
@@ -144,7 +146,7 @@
                <l>Shew me my self amidst the social NINE,</l>
                <l>Rolling and Tossed on the Foaming Brine;</l>
                <l>
-                  <pb n="2" facs="tcp:002882_0004_0FE687515A9E9340"/>Recall the Day our fatal Canvas spread,</l>
+                  <pb n="2" facs="unknown:002882_0004_0FE687515A9E9340"/>Recall the Day our fatal Canvas spread,</l>
                <l>Pale, Ghastly as the Windings of the Dead;</l>
                <l>The well known hour that Launch'd our fragil Beak<g ref="char:punc">▪</g>
                </l>
@@ -170,7 +172,7 @@
                <l>Like what is over ravish'd Honours thrown,</l>
                <l>Unutterable all, and half unknown,</l>
                <l>
-                  <pb n="3" facs="tcp:002882_0005_0FE6872883D110E8"/>Attending virgin Innocence, accurst</l>
+                  <pb n="3" facs="unknown:002882_0005_0FE6872883D110E8"/>Attending virgin Innocence, accurst</l>
                <l>By some inhumane Monster's tyrant Lust:</l>
                <l>Night loving shame, her horrors round entwine,</l>
                <l>The Charming Features of the Fair divine:</l>
@@ -197,7 +199,7 @@
             <lg>
                <l>Oh Horror! Nature Jarrs, Ferments the Blood,</l>
                <l>
-                  <pb n="4" facs="tcp:002882_0006_0FE68756B67B5F58"/>Untunes the Lungs, begets Convulsive strife;</l>
+                  <pb n="4" facs="unknown:002882_0006_0FE68756B67B5F58"/>Untunes the Lungs, begets Convulsive strife;</l>
                <l>Whence pale Disease, Profuse of hateful Life,</l>
                <l>With Bile, crude Juices, Indigestion stain</l>
                <l>The Seas; and pours our Entrails on the Main.</l>
@@ -221,7 +223,7 @@
                <l>While we in his own Territories Roll,</l>
                <l>And Melting in us Dies our very Soul,</l>
                <l>
-                  <pb n="5" facs="tcp:002882_0007_0FE68728B4193050"/>To meet our Fate in close Embraces joyn'd,</l>
+                  <pb n="5" facs="unknown:002882_0007_0FE68728B4193050"/>To meet our Fate in close Embraces joyn'd,</l>
                <l>Within what silence best describes —,</l>
                <l>Breast unto Breast we clasp, and Mind to Mind,</l>
                <l>In love the same, as in expected Death,</l>
@@ -246,7 +248,7 @@
                <l>The Waves Subside, the Tempests cease to Roar,</l>
                <l>Nor more unfriendly Winds deny the Shoar.</l>
                <l>
-                  <pb n="6" facs="tcp:002882_0008_0FE68756D982FD98"/>Big as our hopes, Impatient as desire,</l>
+                  <pb n="6" facs="unknown:002882_0008_0FE68756D982FD98"/>Big as our hopes, Impatient as desire,</l>
                <l>That Joys already half possess'd, inspire;</l>
                <l>With pleasing views of Just delight elate,</l>
                <l>Upon the Quarter-Deck we claim our fate:</l>
@@ -272,7 +274,7 @@
                <l>Each Pow'r employ'd and busi'd ev'ry sense,</l>
                <l>We to the Land our dear Regards dispense,</l>
                <l>
-                  <pb n="7" facs="tcp:002882_0009_0FE6872BA058CAD0"/>We Kiss the Shoars, a Thousand times Caress'd,</l>
+                  <pb n="7" facs="unknown:002882_0009_0FE6872BA058CAD0"/>We Kiss the Shoars, a Thousand times Caress'd,</l>
                <l>And happy seem, with new Existence Bless'd.</l>
                <l>We Print our Pleasures in the heaving Strand,</l>
                <l>And Characters of Joy upon the Land:</l>
@@ -297,7 +299,7 @@
                <l>Nor Lisps and sighs and broken Accents spare,</l>
                <l>A rude Concussion of the vocal Air.</l>
                <l>
-                  <pb n="8" facs="tcp:002882_0010_0FE68759B55D7408"/>Beside th' Inimitables of the Soul,</l>
+                  <pb n="8" facs="unknown:002882_0010_0FE68759B55D7408"/>Beside th' Inimitables of the Soul,</l>
                <l>Too Spir't'al for Vehicular controul.</l>
                <l>Essays ideal Off'rings too Divine</l>
                <l>For airy Dress and ev'ry oral Sign;</l>
@@ -316,7 +318,7 @@
             </lg>
          </div>
          <div type="poem">
-            <pb n="9" facs="tcp:002882_0011_0FE6872BC36E9210"/>
+            <pb n="9" facs="unknown:002882_0011_0FE6872BC36E9210"/>
             <head>Nomina quaerenti <hi>Iuvenum</hi> in<g ref="char:EOLhyphen"/>digenum quasi Carmen indi<g ref="char:EOLhyphen"/>care non recusat.</head>
             <l>
                <hi>D. H</hi> Orrendum fragili, nullo <hi>RECTORE</hi> Carina,</l>
@@ -359,7 +361,7 @@
                   <desc>•</desc>
                </gap>emit Orbis! pugnat Abyssus;</l>
             <l>
-               <pb n="10" facs="tcp:002882_0012_0FE68737C6DBFB40"/>
+               <pb n="10" facs="unknown:002882_0012_0FE68737C6DBFB40"/>
                <hi>J. C</hi> Vmque Euro Zephirus; Boreas pluvialibus Austris;</l>
             <l>
                <hi>E. K.</hi> Haud secus (O Quicunque Es, O miserere legendo,)</l>
